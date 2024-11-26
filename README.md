@@ -111,9 +111,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - youremail@example.com
+Your Name - ashupathak22@gmail.com
 
-Project Link: [https://github.com/yourusername/emotion-music-recommender](https://github.com/yourusername/emotion-music-recommender)
+Project Link: [https://github.com/Ashupathak2001/Emotion_based_music_recommendation](https://github.com/Ashupathak2001/Emotion_based_music_recommendation)
 
 ## 🙏 Acknowledgments
 
