@@ -1,0 +1,59 @@
+/* General App Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #ed1616;
+    text-align: left;
+}
+
+/* Sidebar Styling */
+.css-1d391kg { /* Streamlit's sidebar class */
+    background-color: #ffffff;
+    border-right: 2px solid #ddd;
+    padding: 15px;
+}
+
+.css-1d391kg h2 { /* Sidebar titles */
+    color: #444;
+}
+
+/* Buttons */
+.stButton button {
+    background-color: #0066cc;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #004a99;
+}
+
+/* Recommendations Section */
+.recommendation-card {
+    background-color: rgb(15, 167, 227);
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+}
+
+.recommendation-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(205, 6, 6, 0.2);
+}
+
+/* Video Placeholder */
+.css-1y4p8pa {
+    border: 3px solid #ddd;
+    border-radius: 10px;
+    margin: 15px 0;
+}
